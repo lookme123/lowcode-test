@@ -77,7 +77,6 @@ types/
 demos/
 !scripts/demos/
 /platform
-build/
 test/coverage/
 test/**/coverage/
 mochawesome-report/
